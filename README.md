@@ -15,7 +15,7 @@ The code has been tested on `Android Studio Dolphin Build #AI-213.7172.25.2113.9
 The simulator device is `Pixel 3a XL API 30` with `NDK 21.4.7075529`. 
 After configuring the environment, following steps are required to play the game:
 
-- Download and unzip the [幻世录 resource](https://drive.google.com/file/d/1alTU0K2cyHMEPZ1HmPb11-cBt6TTiNPL/view?usp=sharing) in the repo folder
+- Download and unzip the [幻世录 resource](https://drive.google.com/file/d/1omKuoZ6VqBOwcG8fglS7V8Hq8ZstVpft/view?usp=sharing) in the repo folder
 - Execute `setup.sh` in bash
 - Open Android Studio to build for ~10 minutes 
 
